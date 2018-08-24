@@ -126,6 +126,70 @@ This is to contain RPA notes
  - SAML 2.0 integrated
  - support for LDAP/AD
  
+ ## AUTOMATION ANYWHERE ENTERPRISE ADVANCED FEATURES
+ 
+ ### Automation Anywhere Bots
+ 
+ #### Task Bots
+ - Responsible for base creation for AA 
+ - completing rule based tasks
+ - Easir to build and resitant to change
+ 
+ #### IQ Bots (with vision skills)
+ 
+ - Next gen intelligent bots
+ - have cognitive capabilties 
+ - extract information from semi and unstructured data
+ - gets smarter with every move
+ - can detect patterns
+ - can use them in tasks
+ 
+ 
+ ## Module- 4
+ 
+ ## Way to create Bots
+ 
+ ### Learn how to create bots using the task editor
+ 
+ ### Get an overview of various commands and its usage
+ 
+ ### How to use IQ and Meta bots
+ 
+ 
+ 
+ #### Meta Bots
+ 
+ - Building blocks
+ - App resilient
+ - Extensibility
+ - Maintainibility
+ - Offline automation
+ - Available in automation library
+ - can be used in tasks
+ 
+ - Visual recording(GUI)
+ - Integration
+ - can apply logic
+ 
+ ### Meta bot designer
+ 
+ 
+ 2 building blocks - 
+ 
+ - Assets
+ - Logic
+ ### Version Control 
+ 
+ ### Credential Vault
+ - saves sensitive data
+ - encrypted using AES-256 bit
+ - credentials are transmittind using TLS 1.2 during task play
+ - FIPS level 1 compliance
+
+ ### Analytics
+ 
+ - data points needs to be tagged to go to analytics
+ - SQL database
  
  
  
